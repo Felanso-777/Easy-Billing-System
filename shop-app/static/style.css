@@ -1,0 +1,12 @@
+.center-containner{
+    display: flex; /*enable flex*/
+    justify-content: center; /* align horizontally*/
+    align-items: center;/*align-vertically*/
+    height: 100vh;  /* Takes up the full viewport height */
+    margin: 0;  /* Removes default browser margins */
+}
+.btn-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
